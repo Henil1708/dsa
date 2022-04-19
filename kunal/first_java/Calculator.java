@@ -14,7 +14,7 @@ public class Calculator {
                 System.out.println();
                 System.out.println("Enter 2nd number : ");
                 int number2 = input.nextInt();
-                System.out.println("hello");
+
 
                 if(operator == '+'){
                     ans = number1 + number2;
